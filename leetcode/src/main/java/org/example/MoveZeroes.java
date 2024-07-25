@@ -20,7 +20,7 @@ public class MoveZeroes {
         int[] nums = new int[]{0,1,0,3,0,12, 18, 9, 4};
         moveZeroes(nums);
         for(int i: nums){
-            System.out.print(i);
+            System.out.print(i + "");
         }
     }
 }
